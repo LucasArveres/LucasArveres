@@ -2,8 +2,6 @@
 
 ### Me chamo Lucas Alves e sou programador! :blush:
 
-Here are some ideas to get you started:
-
 - 🌱 Estou aprendendo desenvolvimento web com PHP
 - 👯 Procuro colaborar com porjetos PHP/Laravel
 - 🤔 Preciso de ajuda com boas práticas
